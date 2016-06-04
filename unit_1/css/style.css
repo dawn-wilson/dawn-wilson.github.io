@@ -1,0 +1,12 @@
+body {
+	background-color: #000000;
+	font-family: Arial, sans-serif;
+}
+
+h1,a {
+	color: #ffffff;
+}
+
+p,ul {
+	color: #389e9e;
+}
