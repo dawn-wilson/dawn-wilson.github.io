@@ -92,12 +92,13 @@ h3, ul	{
 nav a	{
 	color: #379d9d;
 	margin-left: 2em;
+	margin-right: 1.25em;
 	text-decoration: none;
 	text-align: center;
 	float: right;
 	border: none;
 	display: inline-block;
-	padding: 0em 1.25em;
+	padding: 0em;
 }
 
 nav a:hover	{
