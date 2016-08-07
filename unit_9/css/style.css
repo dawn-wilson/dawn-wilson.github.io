@@ -45,7 +45,7 @@ p	{
 }
 
 ul	{
-	margin-left: 3em;
+	margin-left: 2em;
 }
 
 img {
@@ -685,17 +685,20 @@ form p {
 }
 
 @media screen and (max-width:550px){
+	body {
+		font-size: 15px;
+	}
 	.phone {
 		text-align: center;
-		padding: 0.8em 0em;
+		padding: 0.5em 0em;
 	}
 	.logo {
 		height: 40px;
     	width: 227px;
-    	margin-bottom: 1em;
+    	margin-bottom: 0.8em;
 	}
 	.navigation {
-		padding: 1.2em 0em;
+		padding: 1em 0em;
 	}
 	.intro-wrapper {
 		padding-top: 10em;
@@ -713,7 +716,7 @@ form p {
     	height: 10em;
 	}
 	h4 {
-		font-size: 1.35em;
+		font-size: 1.3em;
 	}
 	label {
 		display:block;
